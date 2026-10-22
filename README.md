@@ -1,4 +1,4 @@
-# Astal's Adventure - PrototypeBuild
+# Astral's Adventure - PrototypeBuild
 The game builds that are ready for full play testing. 
 
 How to play:
